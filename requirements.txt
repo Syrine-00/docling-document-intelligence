@@ -1,0 +1,5 @@
+docling==2.151.1
+pandas
+reportlab
+pdfplumber
+pytest

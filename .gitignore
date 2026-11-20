@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+output/
+output_baseline/
+output_*/
+cli_output/
+cli_*/
+t[0-9]/
+comparison_report.md
+*.pyc
